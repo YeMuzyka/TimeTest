@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/kle10wka/TimeTest.svg?branch=master)](https://travis-ci.org/kle10wka/TimeTest)
+https://travis-ci.org/kle10wka/TimeTest
