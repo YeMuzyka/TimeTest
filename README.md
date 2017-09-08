@@ -1,1 +1,1 @@
-https://travis-ci.org/kle10wka/TimeTest.svg?branch=master
+https://api.travis-ci.org/kle10wka/TimeTest.svg?branch=master
