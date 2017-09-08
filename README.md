@@ -1,1 +1,1 @@
-https://api.travis-ci.org/kle10wka/TimeTest.svg?branch=master
+<a href="https://travis-ci.org/kle10wka/TimeTest"><img src="https://camo.githubusercontent.com/79d4e0f1b30a87b9c5d4397a325f76bce1bc00c2/68747470733a2f2f7472617669732d63692e6f72672f636f646563656e747269632f737072696e672d626f6f742d61646d696e2e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://api.travis-ci.org/kle10wka/TimeTest.svg?branch=master" style="max-width:100%;"></a>
