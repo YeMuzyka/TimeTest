@@ -11,7 +11,12 @@ public class TimeUtil {
 	
 	public TimeUtil(Calendar time, Locale locale){
 		this.time = time;
-		this.res = ResourceBundle.getBundle("message", locale);
+		if(locale.getLanguage().equals(new Locale("ru").getLanguage()) || locale.getLanguage().equals(new Locale("en").getLanguage())){
+			this.res = ResourceBundle.getBundle("message", locale);
+		} else {
+			Locale defaultLocale = new Locale("en");
+			this.res = ResourceBundle.getBundle("message", defaultLocale);
+		}
 	}
 	
 	public String getResult(){

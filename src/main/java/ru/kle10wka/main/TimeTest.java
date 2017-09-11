@@ -13,7 +13,7 @@ public class TimeTest {
 	public static void main(String[] args) {
 
 		Locale currLocale = Locale.getDefault();
-		Calendar calendarTime = Calendar.getInstance(currLocale);
+		Calendar calendarTime = Calendar.getInstance();
 		TimeUtil currTime = new TimeUtil(calendarTime, currLocale);
 		String result = currTime.getResult();
 		LogConfig lc = new LogConfig(LOG_FILE);
